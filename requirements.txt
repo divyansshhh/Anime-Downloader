@@ -1,0 +1,5 @@
+Requirements->
+	1. Requests library
+	2. Re library 
+	3. Time library
+	4. cfscrape library
